@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDWETLEntity.EF", "HDWETLEntity.EF\HDWETLEntity.EF.csproj", "{1C143BF4-A34F-45D7-94E6-27C4B8B0031A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDWETLEntity.Poco", "HDWETLEntity.Poco\HDWETLEntity.Poco.csproj", "{AE486C15-9505-455D-BDEC-8B29792F9639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1C143BF4-A34F-45D7-94E6-27C4B8B0031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C143BF4-A34F-45D7-94E6-27C4B8B0031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C143BF4-A34F-45D7-94E6-27C4B8B0031A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE486C15-9505-455D-BDEC-8B29792F9639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE486C15-9505-455D-BDEC-8B29792F9639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE486C15-9505-455D-BDEC-8B29792F9639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE486C15-9505-455D-BDEC-8B29792F9639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
